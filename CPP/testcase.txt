@@ -1,0 +1,25 @@
+1
+6
+Mix Platter
+20000
+
+2
+7
+35000
+TKT004
+Danur
+20:00
+
+3
+8
+80000
+TKT005
+Danur
+20:00
+Sofa Bed + Free Popcorn
+45000
+VIP-B2
+
+4
+
+0
