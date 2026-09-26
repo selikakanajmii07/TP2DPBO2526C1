@@ -2,8 +2,6 @@ from tiket import Tiket
 
 
 class TiketVIP(Tiket):
-    """Class turunan (Level 3) dari Tiket -> ini yang bikin Multilevel
-    Inheritance: Produk -> Tiket -> TiketVIP"""
 
     def __init__(self, id_produk: int, nama_produk: str, harga: float,
                  kode_tiket: str, judul_film: str, jam_tayang: str,
