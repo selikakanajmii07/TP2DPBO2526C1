@@ -2,7 +2,6 @@ from produk import Produk
 
 
 class Tiket(Produk):
-    """Class turunan (Level 2) dari Produk"""
 
     def __init__(self, id_produk: int, nama_produk: str, harga: float,
                  kode_tiket: str, judul_film: str, jam_tayang: str):
