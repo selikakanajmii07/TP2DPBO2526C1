@@ -40,3 +40,5 @@ Versi PHP menggunakan data hardcode, data dari ketiga class dimasukkan ke dalam 
 
 Struktur Program
 Setiap bahasa memiliki file class Produk, Tiket, dan TiketVIP, serta file utama untuk menjalankan program.
+
+Dokumentasi hasil program dan Diagram ada pada folder Dokumentasi
